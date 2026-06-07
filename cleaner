@@ -31,22 +31,6 @@ adb shell pm uninstall -k --user 0 com.samsung.android.dqagent
 adb shell pm uninstall -k --user 0 com.samsung.android.da.daagent
 adb shell pm uninstall -k --user 0 com.samsung.android.app.omcagent
 
-adb shell pm uninstall -k --user 0 com.samsung.android.knox.analytics.uploader
-adb shell pm uninstall -k --user 0 com.samsung.slsi.telephony.silentlogging
-adb shell pm uninstall -k --user 0 com.samsung.android.bbc.bbcagent
-adb shell pm uninstall -k --user 0 com.samsung.android.simagent
-adb shell pm uninstall -k --user 0 com.samsung.android.dqagent
-adb shell pm uninstall -k --user 0 com.samsung.android.da.daagent
-adb shell pm uninstall -k --user 0 com.samsung.android.app.omcagent
-
-adb shell pm uninstall -k --user 0 com.samsung.android.knox.analytics.uploader
-adb shell pm uninstall -k --user 0 com.samsung.slsi.telephony.silentlogging
-adb shell pm uninstall -k --user 0 com.samsung.android.bbc.bbcagent
-adb shell pm uninstall -k --user 0 com.samsung.android.simagent
-adb shell pm uninstall -k --user 0 com.samsung.android.dqagent
-adb shell pm uninstall -k --user 0 com.samsung.android.da.daagent
-adb shell pm uninstall -k --user 0 com.samsung.android.app.omcagent
-
 adb shell pm uninstall -k --user 0 com.samsung.android.scloud
 adb shell pm uninstall -k --user 0 com.samsung.android.visual.cloudcore
 
